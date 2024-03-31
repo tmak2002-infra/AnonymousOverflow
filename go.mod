@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.1
-	github.com/alecthomas/chroma/v2 v2.13.0
+	github.com/alecthomas/chroma v0.10.0
 	github.com/alecthomas/chroma/v2 v2.13.0
 	github.com/gin-gonic/gin v1.9.1
 	github.com/go-resty/resty/v2 v2.12.0
